@@ -2,14 +2,11 @@
 
 ## Student Information
 
-**Student Name:** [Your Full Name]
-**Student Number:** [Your Student Number]
-**Module:** [Module Name]
-**Institution:** The Independent Institute of Education (IIE)
-**Assessment:** Web Development Assessment
-**Part:** Part 1 – HTML
-
----
+Student Name: Tieho Vincent Mogapi
+Student Number: St10488174
+Institution: The Independent Institute of Education (IIE)
+Assessment: Web Development Assessment
+Part: Part 1 – HTML
 
 # Project Overview
 The purpose of the project is to develop a website that provide users with clear information about black busted while creating an easy-to-use online presence.
